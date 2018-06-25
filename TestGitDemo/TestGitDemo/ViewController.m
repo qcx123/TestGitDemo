@@ -17,6 +17,7 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     NSLog(@"这是一个测试工程");
+    NSLog(@"这是分支2");
 }
 
 
