@@ -1,0 +1,11 @@
+platform :ios, '8.0'
+target 'TestGitDemo' do
+    pod 'AFNetworking', '~> 3.1.0'
+    pod 'MBProgressHUD', '~> 1.0.0'
+    pod 'MRProgress', '~> 0.8.3'
+    pod 'Masonry'
+    pod 'CrabCrashReporter'
+    pod 'SCLAlertView-Objective-C'
+    pod 'CocoaLumberjack'
+    pod 'IQKeyboardManager'
+end

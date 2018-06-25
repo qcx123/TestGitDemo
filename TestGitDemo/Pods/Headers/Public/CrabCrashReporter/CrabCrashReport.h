@@ -1,0 +1,1 @@
+../../../CrabCrashReporter/CrabCrashReporter/Classes/CrabCrashReport.h
