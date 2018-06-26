@@ -1,0 +1,90 @@
+PODS:
+  - AFNetworking (3.1.0):
+    - AFNetworking/NSURLSession (= 3.1.0)
+    - AFNetworking/Reachability (= 3.1.0)
+    - AFNetworking/Security (= 3.1.0)
+    - AFNetworking/Serialization (= 3.1.0)
+    - AFNetworking/UIKit (= 3.1.0)
+  - AFNetworking/NSURLSession (3.1.0):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (3.1.0)
+  - AFNetworking/Security (3.1.0)
+  - AFNetworking/Serialization (3.1.0)
+  - AFNetworking/UIKit (3.1.0):
+    - AFNetworking/NSURLSession
+  - CocoaLumberjack (3.4.2):
+    - CocoaLumberjack/Default (= 3.4.2)
+    - CocoaLumberjack/Extensions (= 3.4.2)
+  - CocoaLumberjack/Default (3.4.2)
+  - CocoaLumberjack/Extensions (3.4.2):
+    - CocoaLumberjack/Default
+  - CrabCrashReporter (3.6.7)
+  - IQKeyboardManager (6.0.4)
+  - Masonry (1.1.0)
+  - MBProgressHUD (1.0.0)
+  - MRProgress (0.8.3):
+    - MRProgress/ActivityIndicator (= 0.8.3)
+    - MRProgress/Blur (= 0.8.3)
+    - MRProgress/Circular (= 0.8.3)
+    - MRProgress/Icons (= 0.8.3)
+    - MRProgress/NavigationBarProgress (= 0.8.3)
+    - MRProgress/Overlay (= 0.8.3)
+  - MRProgress/ActivityIndicator (0.8.3):
+    - MRProgress/Stopable
+  - MRProgress/Blur (0.8.3):
+    - MRProgress/Helper
+  - MRProgress/Circular (0.8.3):
+    - MRProgress/Helper
+    - MRProgress/ProgressBaseClass
+    - MRProgress/Stopable
+  - MRProgress/Helper (0.8.3)
+  - MRProgress/Icons (0.8.3)
+  - MRProgress/NavigationBarProgress (0.8.3):
+    - MRProgress/ProgressBaseClass
+  - MRProgress/Overlay (0.8.3):
+    - MRProgress/ActivityIndicator
+    - MRProgress/Blur
+    - MRProgress/Circular
+    - MRProgress/Helper
+    - MRProgress/Icons
+  - MRProgress/ProgressBaseClass (0.8.3)
+  - MRProgress/Stopable (0.8.3):
+    - MRProgress/Helper
+  - SCLAlertView-Objective-C (1.1.4)
+
+DEPENDENCIES:
+  - AFNetworking (~> 3.1.0)
+  - CocoaLumberjack
+  - CrabCrashReporter
+  - IQKeyboardManager
+  - Masonry
+  - MBProgressHUD (~> 1.0.0)
+  - MRProgress (~> 0.8.3)
+  - SCLAlertView-Objective-C
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - AFNetworking
+    - CocoaLumberjack
+    - CrabCrashReporter
+    - IQKeyboardManager
+    - Masonry
+    - MBProgressHUD
+    - MRProgress
+    - SCLAlertView-Objective-C
+
+SPEC CHECKSUMS:
+  AFNetworking: 5e0e199f73d8626b11e79750991f5d173d1f8b67
+  CocoaLumberjack: db7cc9e464771f12054c22ff6947c5a58d43a0fd
+  CrabCrashReporter: 7d159d57d5e8297b4e88be31205ef367ad38e3d9
+  IQKeyboardManager: 29514134ef0334a6fa33cf4eee11c36c064baeaf
+  Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
+  MBProgressHUD: 4890f671c94e8a0f3cf959aa731e9de2f036d71a
+  MRProgress: 16de7cc9f347e8846797a770db102a323fe7ef09
+  SCLAlertView-Objective-C: 3a518bcd2a0240564e6cf04673ff4a1ffd0fe53f
+
+PODFILE CHECKSUM: d87b1848e82e07cdba9dcb71af62cf359587e4be
+
+COCOAPODS: 1.5.3
